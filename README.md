@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yoo its Brenden
+# Ayyy Its Brenden
 
 I'm interested in learning and working on projects 📩: Businessbrenden0@gmail.com
 
