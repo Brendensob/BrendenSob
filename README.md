@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Brenden 👋
+# Yoo its Brenden
 
-I'm interested in learning new things, so I build games and apps to learn how they work.
+I'm interested in learning and working on projects 📩: Businessbrenden0@gmail.com
 
 👕 Founder of **[Ataraxia](https://ataraxiaclothesbrand.myshopify.com/)**, my clothing brand
 
