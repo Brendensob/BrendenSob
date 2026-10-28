@@ -8,16 +8,24 @@ I'm interested in learning and working on projects 📩: Businessbrenden0@gmail.
 
 </div>
 
-## 🛠️ What I'm working on
+## 👕 My brand
+
+**[Ataraxia](https://ataraxiaclothesbrand.myshopify.com/)**: my clothing brand. [🛍️ Visit the store](https://ataraxiaclothesbrand.myshopify.com/)
+
+## 🎮 My games
+
+[![My games](https://img.shields.io/badge/🎮_See_my_games-Roblox_and_more-00a2ff?style=for-the-badge)](https://github.com/Brendensob/BrendenSob/blob/main/GAMES.md)
+
+## 📱 Other projects
 
 | Project | What it is | |
 |---|---|---|
-| 👕 **[Ataraxia](https://ataraxiaclothesbrand.myshopify.com/)** | My clothing brand | [🛍️ Visit the store](https://ataraxiaclothesbrand.myshopify.com/) |
-| 🌲 **[Pixel Wilds](https://github.com/Brendensob/Brenden.sobanski)** | A free pixel survival-crafting game in Godot 4, inspired by Pixel Survival Game 2. Play online with friends | [▶ Play in your browser](https://brendensob.github.io/Brenden.sobanski/) |
 | 🥕 **NourishNest** | A family meal planner and grocery barcode scanner for iPhone and Android (Expo / React Native) | Private for now |
 
 ## 🧰 Tools I use
 
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00a2ff?logo=roblox&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-2c2d72)
 ![Godot](https://img.shields.io/badge/Godot-478cbf?logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black)
