@@ -4,14 +4,16 @@
 
 I'm interested in learning new things, so I build games and apps to learn how they work.
 
+👕 Founder of **[Ataraxia](https://ataraxiaclothesbrand.myshopify.com/)**, my clothing brand
+
 </div>
 
 ## 🛠️ What I'm working on
 
 | Project | What it is | |
 |---|---|---|
-| 🌲 **[Pixel Wilds](https://github.com/Brendensob/Brenden.sobanski)** | A free pixel survival-crafting game in Godot 4, inspired by Pixel Survival Game 2. Play online with friends | [▶ Play in your browser](https://brendensob.github.io/Brenden.sobanski/) |
 | 👕 **[Ataraxia](https://ataraxiaclothesbrand.myshopify.com/)** | My clothing brand | [🛍️ Visit the store](https://ataraxiaclothesbrand.myshopify.com/) |
+| 🌲 **[Pixel Wilds](https://github.com/Brendensob/Brenden.sobanski)** | A free pixel survival-crafting game in Godot 4, inspired by Pixel Survival Game 2. Play online with friends | [▶ Play in your browser](https://brendensob.github.io/Brenden.sobanski/) |
 | 🥕 **NourishNest** | A family meal planner and grocery barcode scanner for iPhone and Android (Expo / React Native) | Private for now |
 
 ## 🧰 Tools I use
