@@ -2,7 +2,7 @@
 
 # My Name Is Brenden
 
-I'm interested in learning and working on projects 📩: Businessbrenden0@gmail.com
+I'm interested in learning and working on projects.       📩: Businessbrenden0@gmail.com
 
 👕 Founder of **[Ataraxia](https://ataraxiaclothesbrand.myshopify.com/)**, my clothing brand
 
